@@ -1,2 +1,2 @@
-# AoC2022
+# AoC
 Going through advent of code
